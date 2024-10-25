@@ -1,18 +1,14 @@
 👋 Hello there! I’m @JoaoBrasOliveira
 
-I live in Lisbon, I'm 24 years old and am currently pursuing a Master's degree in Data Science at ISCTE Business School. 📚
+📚 I live in Lisbon, Portugal, I'm 25 years old and am currently on the verge of finishing my Master's degree in Data Science at ISCTE Business School. 
 
-In my free time I enjoy 
+🔬 In my dissertation, I delved within the exciting real-world challenge that is financial statement fraud detection with the help of machine learning and Large Language Models (LLMs).
 
-🔬 Currently, I'm deeply immersed in my dissertation, where I'm applying the knowledge and skills I've acquired throughout my academic journey. I must say it is an exciting phase where theory meets real-world challenges along the financial statement fraud landscape.
+💼 I'm eagerly looking forward to embracing new opportunities that allow me to tackle fresh challenges and create value in one or multiple of my areas of interest. 
 
-💼 Beyond academia, I'm eagerly looking forward to embracing new opportunities that allow me to tackle fresh challenges and create value in one or multiple of my areas of interest 💞️. Whether it's exploring predictive modeling, diving into machine learning algorithms, or uncovering insights from data, I'm ready to make a meaningful impact.
+🚀 Although I have been learning to make predictions for the last year, I know that: "The best way to predict the future is to create it." - (Abraham Lincoln).
 
-🌱 Driven by curiosity and fueled by a passion for growth, I firmly believe in the power of data to drive informed decisions and catalyze positive change. As Abraham Lincoln famously said, "The best way to predict the future is to create it." I'm committed to shaping the future through innovation and data-driven insights.
-
-🚀 Although I have been learning to make predictions for the last year, I know that: "The best way to predict the future is to create it." - (Abraham Lincoln).Let's connect and explore how we can collaborate
-
-📫 How to reach me ...
+📫 If you are interested, let's connect and explore how we can collaborate! I'm an e-mail away. Just e-mail to: jbboa@iscte-iul.pt
 
 <!---
 JoaoBrasOliveira/JoaoBrasOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

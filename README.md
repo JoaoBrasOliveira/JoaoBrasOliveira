@@ -16,8 +16,8 @@ Thank you!
 Welcome to my GitHub! I’m passionate about exploring **data science, machine learning, and analytics** to gain insights and solve real-world problems. This space is where I share my **projects, experiments, and learning materials**.  
 
 ## 📌 What You’ll Find Here  
-- **[Portfolio Repository](https://github.com/JoaoBrasOliveira/portfolio)** – A collection of my data science experiments, including code, analyses, and ideas.  
-- **[Machine Learning Done Simple](https://github.com/JoaoBrasOliveira/machinelearning-donesimple)** – Concise slides and notes I created to help me break down complex ML topics in the simplest way possible.  
+- **[Portfolio Repository](https://github.com/JoaoBrasOliveira/machine-learning-experiments)** – A collection of my data science experiments, including code, analyses, and ideas.  
+- **[Simple Machine Learning Explained](https://github.com/JoaoBrasOliveira/simple-machine-learning-explained)** – Concise slides and notes I created to help me break down complex ML topics in the simplest way possible.  
 
 ## 🎯 What I'm Working On  
 - Experimenting with **machine learning models** for better decision-making.  

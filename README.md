@@ -3,7 +3,7 @@ Overall GitHub Profile README
 --->
 # 👋 Hello there, I'm João Oliveira! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/joaobrasoliveira/)  
 
-🚀 **Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast**  
+## 🚀 **Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast**  
 
 Welcome to my GitHub! 
 

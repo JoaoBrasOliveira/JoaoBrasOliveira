@@ -5,8 +5,6 @@ Overall GitHub Profile README
 
 Welcome to my GitHub! 
 
-I’m passionate about exploring **data science, machine learning, and analytics** to gain insights and solve real-world problems. 
-
 This is where I share my experiments, including code, datasets, analyses, ideas and learning materials.
 
 ---
@@ -18,7 +16,7 @@ This is where I share my experiments, including code, datasets, analyses, ideas 
 ---
 
 ## 📌 Projects
-Each project has its own repository. Just click on an image to explore!
+Each project has its own repository. Just click on an image to explore! Or alternatively, choose one from [here](https://github.com/JoaoBrasOliveira?tab=repositories).
 
 Most are fully open-source and available under the MIT License. Feel free to **clone or fork** any of them.
 

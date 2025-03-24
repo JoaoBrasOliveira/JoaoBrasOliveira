@@ -14,81 +14,16 @@ I’m passionate about exploring **data science, machine learning, and analytics
 ## 📌 Projects
 Each project has its own repository, allowing for a more focused and detailed exploration of each topic.
 
-### 1. [Decoding the Numbers and Language Behind Financial Statement Fraud](https://github.com/JoaoBrasOliveira/decoding-the-numbers-and-language-behind-financial-statement-fraud)
-
-**Tags:** `Large Language Models`, `Fraud Detection`, `Financial Statements`, `SEC`.
-
 <div align="center">
-  <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/masters_thesis">
-    <img src="images/Picture2.png" alt="Master’s Thesis" width="400" height="300" />
-  </a>
-</div>
 
----
+| [<a href="https://github.com/JoaoBrasOliveira/decoding-the-numbers-and-language-behind-financial-statement-fraud"><img src="images/Picture2.png" alt="Master’s Thesis" width="300" /></a> <br> <sub>Decoding Financial Statement Fraud</sub>](https://github.com/JoaoBrasOliveira/decoding-the-numbers-and-language-behind-financial-statement-fraud) | [<a href="https://github.com/JoaoBrasOliveira/ethereum_prices"><img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="300" /></a> <br> <sub>Forecasting Ethereum Prices</sub>](https://github.com/JoaoBrasOliveira/ethereum_prices) | [<a href="https://github.com/JoaoBrasOliveira/amazon_sentiment_analysis"><img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="300" /></a> <br> <sub>Sentiment Analysis of Amazon Reviews</sub>](https://github.com/JoaoBrasOliveira/amazon_sentiment_analysis) |
+|:---:|:---:|:---:|
+| **Financial Statement Fraud** | **Ethereum Price Forecasting** | **Amazon Sentiment Analysis** |
 
-### 2. [Forecasting the Prices of Ethereum (ETH)](https://github.com/JoaoBrasOliveira/ethereum_prices)
-Used time-series techniques to predict cryptocurrency price movements using ARIMA, Prophet, LSTM, and GRU.
+| [<a href="https://github.com/JoaoBrasOliveira/pokemontcgp_greed"><img src="images/Pokemon.png" alt="Pokémon TCGP Analysis" width="300" /></a> <br> <sub>Pokémon TCGP - An Analysis of Greed</sub>](https://github.com/JoaoBrasOliveira/pokemontcgp_greed) | [<a href="https://github.com/JoaoBrasOliveira/chessbot"><img src="images/chess.jpeg" alt="Chess Playing Bot" width="300" /></a> <br> <sub>Chess Playing Bot</sub>](https://github.com/JoaoBrasOliveira/chessbot) | [<a href="https://github.com/JoaoBrasOliveira/simple-machine-learning-explained"><img src="images/PCA_cheatslide.png" alt="ML Slides" width="300" /></a> <br> <sub>Simple Machine Learning Explained</sub>](https://github.com/JoaoBrasOliveira/simple-machine-learning-explained) |
+|:---:|:---:|:---:|
+| **Pokémon TCGP Analysis** | **Chess Playing Bot** | **Simple ML Explained** |
 
-**Tags:** `Deep Learning`, `Forecasting`, `Ethereum`, `Time-series`.
-
-<div align="center">
-  <a href="https://github.com/JoaoBrasOliveira/ethereum_prices">
-    <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="400" height="300" />
-  </a>
-  <br>
-  <sub>Image Credit: Photo by <a href="https://unsplash.com/pt-br/@zoltantasi">Zoltan Tasi</a> on Unsplash</a></sub>
-</div>
-
----
-
-### 3. [Sentiment Analysis of Amazon Reviews](https://github.com/JoaoBrasOliveira/amazon_sentiment_analysis)
-Applied NLP to analyze sentiment in Amazon marketplace reviews using machine learning models.
-
-**Tags:** `NLP`, `Sentiment Analysis`, `Customer Reviews`, `Transformers`.
-
-<div align="center">
-  <a href="https://github.com/JoaoBrasOliveira/amazon_sentiment_analysis">
-    <img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="400" height="300" />
-  </a>
-  <br>
-  <sub>Image Credit: Photo by <a href="https://unsplash.com/@mahdibafande">Mahdi Bafande</a> on Unsplash</a></sub>
-</div>
-
----
-
-### 4. [Pokémon TCGP - An Analysis of Greed](https://github.com/JoaoBrasOliveira/pokemontcgp_greed)
-Used Monte Carlo simulations to analyze the coupon collector's problem in Pokémon TCGP.
-
-<div align="center">
-  <a href="https://github.com/JoaoBrasOliveira/pokemontcgp_greed">
-    <img src="images/Pokemon.png" alt="Pokémon Trading Card Game Pocket (TCGP)" width="400" height="300" />
-  </a>
-  <br>
-  <sub>Image Credit: Photo by <a href="https://commons.wikimedia.org/wiki/User:Cmglee">Cmglee</a> on Wikipedia</a></sub>
-</div>
-
----
-
-### 5. [Chess Playing Bot](https://github.com/JoaoBrasOliveira/chessbot)
-Created a bot that attempts to play like a real chess Grandmaster with memory constraints.
-
-<div align="center">
-  <a href="https://github.com/JoaoBrasOliveira/chessbot">
-    <img src="images/chess.jpeg" alt="Chess playing bot" width="400" height="300" />
-  </a>
-  <br>
-  <sub>Image Credit: Photo by <a href="https://www.chess.com/article/view/how-chess-games-can-end-8-ways-explained">Chess.com</a></a></sub>
-</div>
-
----
-
-### 6. [Simple Machine Learning Explained](https://github.com/JoaoBrasOliveira/simple-machine-learning-explained)
-Concise slides and notes I created to help me break down complex ML topics in the simplest way possible.
-
-<div align="center">
-  <a href="https://github.com/JoaoBrasOliveira/simple-machine-learning-explained">
-    <img src="images/PCA_cheatslide.png" alt="ML Slides" width="400" height="300" />
-  </a>
 </div>
 
 ---

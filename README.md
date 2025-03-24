@@ -3,25 +3,23 @@ Overall GitHub Profile README
 --->
 # 👋 Hello there, I'm João Oliveira! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/joaobrasoliveira/)  
 
-## 🚀 **Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast**  
-
 Welcome to my GitHub! 
 
-Here is where I share a collection of my data science experiments, including code, analyses, and ideas.
+I’m passionate about exploring **data science, machine learning, and analytics** to gain insights and solve real-world problems. 
 
-I’m passionate about exploring **data science, machine learning, and analytics** to gain insights and solve real-world problems. This space is where I share my **projects, experiments, and learning materials**.  
+This is where I share my experiments, including code, datasets, analyses, ideas and learning materials.
 
 ---
-## 🎯 What I'm Working On  
-- Working on publishing my Master´s thesis on **Financial Statement Fraud (FSF) detection** in a peer-reviewed journal.
-- Continuously improving my understanding of **Python**.   
+## 🎯 Currenly I'm Working On  
+- Publishing my Master´s thesis on **Financial Statement Fraud (FSF) detection** in a peer-reviewed journal.
+- Improving my understanding of **Python**.   
 - Building knowledge of **Containerization fundamentals**.  
 
 ---
 
 ## 📌 Projects
-Each project has its own repository which you can access by clicking their images.
-Feel free to **clone or fork** any of my projects.
+Each project has its own repository. Just click on an image to explore!
+Most are fully open-source, and available under the MIT License. Feel free to **clone or fork** any of them.
 
 <div align="center">
 

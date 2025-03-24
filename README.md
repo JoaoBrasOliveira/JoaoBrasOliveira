@@ -3,7 +3,7 @@ Overall GitHub Profile README
 --->
 # 👋 Hello there, I'm João Oliveira!  
 
-🚀 **Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast**  
+🚀 **Aspiring Data Scientist | Machine Learning & Data Analytics Enthusiast**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/joaobrasoliveira/)  
 
 Welcome to my GitHub! 
 
@@ -11,17 +11,17 @@ Here is where I share a collection of my data science experiments, including cod
 
 I’m passionate about exploring **data science, machine learning, and analytics** to gain insights and solve real-world problems. This space is where I share my **projects, experiments, and learning materials**.  
 
-## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/joaobrasoliveira/)  
-
-## 📌 Projects
-Each project has its own repository, allowing for a more focused and detailed exploration of each topic.
+---
+## 🎯 What I'm Working On  
+- Working on publishing my Master´s thesis [Project 1] on **financial fraud detection** for better decision-making.
+- Continuously improving my understanding of **Python**.   
+- Building knowledge of **Containerization fundamentals**.  
 
 ---
 
+## 📌 Projects
+Each project has its own repository you can access simply by clicking in each of their images.
 Feel free to **clone, fork, or contribute** to any of my projects.
-
-## Projects
 
 <div align="center">
 
@@ -34,10 +34,3 @@ Feel free to **clone, fork, or contribute** to any of my projects.
 | **Pokémon TCGP SImulations** | **Efficient Chess Bot** | **Simple ML Slides** |
 
 </div>
-
----
-
-## 🎯 What I'm Working On  
-- Working on publishing my Master´s thesis [Project 1] on **financial fraud detection** for better decision-making.
-- Continuously improving my understanding of **Python**.   
-- Building knowledge of **Containerization fundamentals**.  

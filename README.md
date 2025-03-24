@@ -20,8 +20,8 @@ I’m passionate about exploring **data science, machine learning, and analytics
 ---
 
 ## 📌 Projects
-Each project has its own repository you can access simply by clicking in each of their images.
-Feel free to **clone, fork, or contribute** to any of my projects.
+Each project has its own repository which you can access by clicking their images.
+Feel free to **clone or fork** any of my projects.
 
 <div align="center">
 

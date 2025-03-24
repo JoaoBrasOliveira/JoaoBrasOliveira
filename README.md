@@ -18,7 +18,11 @@ Each project has its own repository, allowing for a more focused and detailed ex
 
 **Tags:** `Large Language Models`, `Fraud Detection`, `Financial Statements`, `SEC`.
 
-![Decoding the Numbers and Language Behind Financial Statement Fraud](images/Picture2.png)
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/masters_thesis">
+    <img src="images/Picture2.png" alt="Master’s Thesis" width="400" height="300" />
+  </a>
+</div>
 
 ---
 
@@ -27,8 +31,13 @@ Used time-series techniques to predict cryptocurrency price movements using ARIM
 
 **Tags:** `Deep Learning`, `Forecasting`, `Ethereum`, `Time-series`.
 
-![Forecasting the Prices of Ethereum (ETH)](images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg)
-*Image Credit: Photo by [Zoltan Tasi](https://unsplash.com/pt-br/@zoltantasi) on Unsplash*
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/ethereum_prices">
+    <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="400" height="300" />
+  </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://unsplash.com/pt-br/@zoltantasi">Zoltan Tasi</a> on Unsplash</a></sub>
+</div>
 
 ---
 
@@ -37,37 +46,55 @@ Applied NLP to analyze sentiment in Amazon marketplace reviews using machine lea
 
 **Tags:** `NLP`, `Sentiment Analysis`, `Customer Reviews`, `Transformers`.
 
-![Sentiment Analysis of Amazon Reviews](images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg)
-*Image Credit: Photo by [Mahdi Bafande](https://unsplash.com/@mahdibafande) on Unsplash*
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/amazon_sentiment_analysis">
+    <img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="400" height="300" />
+  </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://unsplash.com/@mahdibafande">Mahdi Bafande</a> on Unsplash</a></sub>
+</div>
 
 ---
 
 ### 4. [Pokémon TCGP - An Analysis of Greed](https://github.com/JoaoBrasOliveira/pokemontcgp_greed)
 Used Monte Carlo simulations to analyze the coupon collector's problem in Pokémon TCGP.
 
-![Pokémon TCGP - An Analysis of Greed](images/Pokemon.png)
-*Image Credit: Photo by [Cmglee](https://commons.wikimedia.org/wiki/User:Cmglee) on Wikipedia*
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/pokemontcgp_greed">
+    <img src="images/Pokemon.png" alt="Pokémon Trading Card Game Pocket (TCGP)" width="400" height="300" />
+  </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://commons.wikimedia.org/wiki/User:Cmglee">Cmglee</a> on Wikipedia</a></sub>
+</div>
 
 ---
 
 ### 5. [Chess Playing Bot](https://github.com/JoaoBrasOliveira/chessbot)
 Created a bot that attempts to play like a real chess Grandmaster with memory constraints.
 
-![Chess Playing Bot](images/chess.jpeg)
-*Image Credit: Photo by [Chess.com](https://www.chess.com/article/view/how-chess-games-can-end-8-ways-explained)*
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/chessbot">
+    <img src="images/chess.jpeg" alt="Chess playing bot" width="400" height="300" />
+  </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://www.chess.com/article/view/how-chess-games-can-end-8-ways-explained">Chess.com</a></a></sub>
+</div>
 
 ---
 
 ### 6. [Simple Machine Learning Explained](https://github.com/JoaoBrasOliveira/simple-machine-learning-explained)
 Concise slides and notes I created to help me break down complex ML topics in the simplest way possible.
 
-![Simple Machine Learning Explained](images/chess.jpeg)
-*Image Credit: Photo by [Chess.com](https://www.chess.com/article/view/how-chess-games-can-end-8-ways-explained)*
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/simple-machine-learning-explained">
+    <img src="images/PCA_cheatslide.png" alt="ML Slides" width="400" height="300" />
+  </a>
+</div>
 
 ---
 
 ## 🎯 What I'm Working On  
-- Working on publishing my Master´s thesis on **financial fraud detection** for better decision-making.
+- Working on publishing my Master´s thesis [Project 1] on **financial fraud detection** for better decision-making.
 - Continuously improving my understanding of **Python**.   
 - Building knowledge of **Containerization fundamentals**.  
 
